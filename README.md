@@ -6,3 +6,14 @@ Hello! My name is Sean Blankenship, better known online as SerenityDev or Sereni
 ### Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=5erenityDev&show_icons=true&theme=dark&locale=en&layout=compact" alt="5erenityDev" /></p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## See more on my websites:
+
+### [sean-blankenship.com](https://sean-blankenship.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [serenity-dev.com](https://serenity-dev.com)
