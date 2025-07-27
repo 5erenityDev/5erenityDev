@@ -16,7 +16,7 @@ Hello! My name is Sean Blankenship, better known online as SerenityDev (Serenity
 
 ## Check out my websites:
 
-### [seanblankenship.dev](https://www.seanblankenship.dev) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [serenitydev.net](https://www.serenitydev.net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [wretchedrose.com](https://www.wretchedrose.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [reapnsowgame.com](https://www.reapnsowgame.com)
+### [serenitydev.biz](https://www.serenitydev.biz) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [serenitydev.net](https://www.serenitydev.net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [wretchedrose.com](https://www.wretchedrose.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [reapnsowgame.com](https://www.reapnsowgame.com)
 
 > [!WARNING]
 > All of these websites are WIP, expect frequent updates scattered amongst them!
