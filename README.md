@@ -1,5 +1,5 @@
-# <div align="center">Sean Blankenship (Serenity_Dev)</div>
-### <div align="center">:octocat: [Independent game developer](https://serenitydev.net) and [freelance programmer](https://sean-blankenship.com) :octocat:</div>
+# <div align="center">Sean (Serenity_Dev)</div>
+### <div align="center">:octocat: [Independent game developer](https://serenity.studio) and [freelancer](https://serenitydev.biz) :octocat:</div>
 #
 Hello! My name is Sean Blankenship, better known online as SerenityDev (Serenity_Dev) or just Serenity. I'm looking to provide thought-provoking yet fun experiences to all that I can. I'm also avaliable for any form of work whether it be 3D modeling, game dev, web dev, or software development 
 ###
@@ -16,7 +16,7 @@ Hello! My name is Sean Blankenship, better known online as SerenityDev (Serenity
 
 ## Check out my websites:
 
-### [serenitydev.biz](https://www.serenitydev.biz) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [serenitydev.net](https://www.serenitydev.net) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [wretchedrose.com](https://www.wretchedrose.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [reapnsowgame.com](https://www.reapnsowgame.com)
+### [serenitydev.biz](https://www.serenitydev.biz) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [serenity.studio](https://www.serenity.studio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [wretchedrose.com](https://www.wretchedrose.com) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [reapnsowgame.com](https://www.reapnsowgame.com)
 
 > [!WARNING]
 > All of these websites are WIP, expect frequent updates scattered amongst them!
